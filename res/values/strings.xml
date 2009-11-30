@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MainActivity!</string>
+	<string name="app_name">NBA CCTV-5 Guide</string>
+	<string name="app_version">Version: 0.0.1</string>
+	<string name="app_author">Author: Bin Shao[shaobin0604@gmail.com]</string>
+	<string name="app_licence">Licence: Apache License, Version 2.0</string>
+	<string name="app_website">http://aquarium.yo2.cn</string>
+	
+	<string name="no_data">No Data :-(</string>
+	<string name="network_error_title">Network Error</string>
+	<string name="network_error_msg">Please check your network settings</string>
+	<string name="database_error_title">Database Error</string>
+	<string name="database_error_msg">Please contact the author</string>
+	<string name="loading_title">Download data</string>
+	<string name="loading_msg">Loading...</string>
+	<string name="button_retry">Retry</string>
+	<string name="button_cancel">Cancel</string>
+	<string name="button_ok">OK</string>
+	<string name="button_yes">Yes</string>
+	<string name="button_no">No</string>
+	<string name="menu_refresh">Refresh</string>
+	<string name="menu_about">About</string>
+</resources>

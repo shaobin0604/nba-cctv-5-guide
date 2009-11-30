@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="days_of_week">
+<item>Sun</item>
+<item>Mon</item>
+<item>Tue</item>
+<item>Web</item>
+<item>Thu</item>
+<item>Fri</item>
+<item>Sat</item>
+</string-array>
+</resources>

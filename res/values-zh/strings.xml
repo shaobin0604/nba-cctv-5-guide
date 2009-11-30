@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MainActivity!</string>
+	<string name="app_name">NBA CCTV-5 直播时间表</string>
+	<string name="app_version">版本: 0.0.1</string>
+	<string name="app_author">作者: 邵彬[shaobin0604@gmail.com]</string>
+	<string name="app_licence">授权: Apache License, Version 2.0</string>
+	<string name="app_website">http://aquarium.yo2.cn</string>
+	
+	<string name="no_data">没有数据:-(</string>
+	<string name="network_error_title">网络错误</string>
+	<string name="network_error_msg">请检查手机网络设置</string>
+	<string name="database_error_title">数据存储错误</string>
+	<string name="database_error_msg">请联系作者</string>
+	<string name="loading_title">正在下载</string>
+	<string name="loading_msg">请稍等...</string>
+	<string name="button_retry">重试</string>
+	<string name="button_cancel">取消</string>
+	<string name="button_ok">确定</string>
+	<string name="button_yes">是</string>
+	<string name="button_no">否</string>
+	<string name="menu_refresh">刷新</string>
+	<string name="menu_about">关于</string>
+</resources>
